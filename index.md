@@ -1,7 +1,7 @@
 
 ## Our Project
 
-This project is the solution to your procrstination habits. Add notes during class and create questions, then study with study quizzes everyday leading up to your exam.
+This project is the solution to your procrstination habits. Add notes during class and create questions, then study with quizzes everyday leading up to your exam.
 
 [Final prototype](https://www.figma.com/file/HK0piJ5yvZF2afPSLAaImGv1/Final-Prototype?node-id=0%3A1)
 
