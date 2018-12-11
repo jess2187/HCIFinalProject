@@ -11,6 +11,8 @@ This project is the solution to your procrstination habits. Add notes during cla
 
 [Usability Testing & Heuristic Evaluation](https://github.com/jess2187/HCIFinalProject/blob/master/Usability%20Testing%20%26%20Heuristic%20Evaluation.pdf)
 
+[Paper Prototype](https://github.com/jess2187/HCIFinalProject/blob/master/Paper%20Prototype%20Notes.pdf)
+
 ### Our Group
 
 **Jessica Sanborn** jessica.sanborn@colorado.edu and **Kailey Epp** kailey.epp@colorado.edu
