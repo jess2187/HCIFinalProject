@@ -41,4 +41,4 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 ### Our Group
 
-**Jessica Sanborn** jessica.sanborn@colorado.edu and **Kailey Epp** kailey.kpp@colorado.edu
+**Jessica Sanborn** jessica.sanborn@colorado.edu and **Kailey Epp** kailey.epp@colorado.edu
