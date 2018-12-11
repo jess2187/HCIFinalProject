@@ -13,6 +13,8 @@ This project is the solution to your procrstination habits. Add notes during cla
 
 [Paper Prototype](https://github.com/jess2187/HCIFinalProject/blob/master/Paper%20Prototype%20Notes.pdf)
 
+[Final Prototype & Storyboard](https://github.com/jess2187/HCIFinalProject/blob/master/Final%20Prototype%20%26%20Storyboard.pdf)
+
 ### Our Group
 
 **Jessica Sanborn** jessica.sanborn@colorado.edu and **Kailey Epp** kailey.epp@colorado.edu
