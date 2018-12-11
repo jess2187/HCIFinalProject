@@ -1,11 +1,11 @@
-## Welcome to GitHub Pages
 
-HI [final prototype](https://www.figma.com/file/HK0piJ5yvZF2afPSLAaImGv1/Final-Prototype?node-id=0%3A1)
+## Our Project
 
+This project is the solution to your procrstination habits. Add notes during class and create questions, then study with study quizzes everyday leading up to your exam.
 
-kkknlknlnknlnYou can use the [editor on GitHub](https://github.com/jess2187/HCIFinalProject/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+[Final prototype](https://www.figma.com/file/HK0piJ5yvZF2afPSLAaImGv1/Final-Prototype?node-id=0%3A1)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+[Video](https://www.figma.com/file/HK0piJ5yvZF2afPSLAaImGv1/Final-Prototype?node-id=0%3A1)
 
 ### Markdown
 
