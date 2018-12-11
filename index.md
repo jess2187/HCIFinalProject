@@ -9,11 +9,14 @@ This project is the solution to your procrstination habits. Add notes during cla
 
 ### Assignments
 
-[Usability Testing & Heuristic Evaluation](https://github.com/jess2187/HCIFinalProject/blob/master/Usability%20Testing%20%26%20Heuristic%20Evaluation.pdf)
+3. [Design Research](https://github.com/jess2187/HCIFinalProject/blob/master/Design%20Research.pdf)
 
-[Paper Prototype](https://github.com/jess2187/HCIFinalProject/blob/master/Paper%20Prototype%20Notes.pdf)
+4. [Usability Testing & Heuristic Evaluation](https://github.com/jess2187/HCIFinalProject/blob/master/Usability%20Testing%20%26%20Heuristic%20Evaluation.pdf)
 
-[Final Prototype & Storyboard](https://github.com/jess2187/HCIFinalProject/blob/master/Final%20Prototype%20%26%20Storyboard.pdf)
+5. [Paper Prototype](https://github.com/jess2187/HCIFinalProject/blob/master/Paper%20Prototype%20Notes.pdf)
+
+6. [Final Prototype & Storyboard](https://github.com/jess2187/HCIFinalProject/blob/master/Final%20Prototype%20%26%20Storyboard.pdf)
+
 
 ### Our Group
 
