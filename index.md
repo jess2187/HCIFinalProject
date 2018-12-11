@@ -9,7 +9,7 @@ This project is the solution to your procrstination habits. Add notes during cla
 
 ### Assignments
 
-[Usability Testing & Heuristic Evaluation](HCIFinalProject/Usability Testing & Heuristic Evaluation.pdf)
+[Usability Testing & Heuristic Evaluation](https://github.com/jess2187/HCIFinalProject/blob/master/Usability%20Testing%20%26%20Heuristic%20Evaluation.pdf)
 
 ### Markdown
 
