@@ -9,6 +9,10 @@ This project is the solution to your procrstination habits. Add notes during cla
 
 ### Assignments
 
+1. Project Ideas
+
+2. [Project Plan](https://github.com/jess2187/HCIFinalProject/blob/master/HCI%20Project%20Plan-1.pdf)
+
 3. [Design Research](https://github.com/jess2187/HCIFinalProject/blob/master/Design%20Research.pdf)
 
 4. [Usability Testing & Heuristic Evaluation](https://github.com/jess2187/HCIFinalProject/blob/master/Usability%20Testing%20%26%20Heuristic%20Evaluation.pdf)
