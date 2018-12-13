@@ -5,7 +5,7 @@ This project is the solution to your procrstination habits. Add notes during cla
 
 [Final prototype](https://www.figma.com/file/HK0piJ5yvZF2afPSLAaImGv1/Final-Prototype?node-id=0%3A1)
 
-[Video](https://www.figma.com/file/HK0piJ5yvZF2afPSLAaImGv1/Final-Prototype?node-id=0%3A1)
+[Video](https://drive.google.com/drive/u/1/folders/1BziW3fY68BMyGbWPVRrTGisFyUjXRcwD)
 
 ### Assignments
 
